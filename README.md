@@ -116,9 +116,8 @@
 
 ### Pass 7 - Fredag  13/10
 
-* Databaser
-    * MySQL
-    * Vad ska man ha databasen till?
+* GIT
+
 
 **Inlämning av första uppgiften den här veckan**
 
@@ -132,7 +131,7 @@
 
 ### Pass 9 - Tisdag 17/10
 
-* SQL & Normalisering
+* SQL
     * MySQL med PDO
     * MySQLi & mysql_connect
     * Varför PDO?  
@@ -142,6 +141,7 @@
 ### Pass 10 - Måndag 23/10
 
 * Globala variabler i PHP
+* Normalisering
     * SESSIONS
     * $_GET
     * $_POST_
