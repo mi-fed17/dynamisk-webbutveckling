@@ -128,6 +128,7 @@
 * Databaser
     * MySQL & PDO
     * Queries
+    * SQL
 
 ### Pass 9 - Tisdag 17/10
 
@@ -138,18 +139,16 @@
 
 ---
 
-### Pass 10 - Måndag 23/10
+### Pass 10 - Tisdag 24/10
 
-* Globala variabler i PHP
 * Normalisering
-    * SESSIONS
-    * $_GET
-    * $_POST_
+* Joins
 
-### Pass 11 - Tisdag 24/10
+### Pass 11 - Fredag 27/10
 
 * Autentisering
     * Användarhantering
+    * $_SESSION
 
 **Inlämning av andra uppgiften den här veckan**
 
