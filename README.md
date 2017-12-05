@@ -169,38 +169,28 @@
 
 ### Pass 14 - Måndag 6/11
 
-* Avancerad form-hantering i PHP
-    * När ska man använda GET vs. POST: use cases
-    * Routing
+* Projektarbete
 
 
 ### Pass 15 - Tisdag 7/11
 
-* Filstruktur i PHP
-    * Templates
-    * Jobba mot GIT
+* Projektarbete
 
 ---
 
 ### Pass 16 - Måndag 13/11
 
-* Avancerad SQL
-    * Fördjupning inom JOINS
-    * En eller flera queries samtidigt
-    * Subqueries  
+* Filuppladdning
 
 ### Pass 17 - Tisdag 14/11 
 
-* Säkerhet i PHP
-    * Applikation i produktion vs. development
+* Session & Cookies
 
 ---
 
 ### Pass 18 - Måndag 20/11
 
 * Projektarbete med grupprojekt
-* Hosting av applikation
-* Hosting av PHP samt MySQL
 
 ### Pass 19 - Tisdag 21/11
 
